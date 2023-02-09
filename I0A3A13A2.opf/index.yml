@@ -1,0 +1,11 @@
+id: 490a51133b754096b0705640a6b1f8ac
+annotation_type: index
+revision: '00001'
+annotations:
+  692bbd6ef81e457ab6b9533627dd532e:
+    base: C8BA.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 399
